@@ -19,8 +19,8 @@
 ----
 <div>
 
-  ![qkrtjddms27's github stats](https://github-readme-stats.vercel.app/api?username=qkrtjddms27&show_icons=true) 
-  
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=qkrtjddms27&show_icons=true">
+
   ### 저는
   
   - 꾸준한 학습을 지향합니다.
