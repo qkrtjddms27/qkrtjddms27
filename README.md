@@ -1,16 +1,33 @@
-### Hi there 👋
+<h2 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SungEun's%20Git%20Hub!!&fontSize=90" />
 
-<!--
-**qkrtjddms27/qkrtjddms27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> 🛠️ Tech Stack 🛠️</h2>
+  <br/>
+  <div align="center">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <br/>
+    <img src="https://img.shields.io/badge/JPA-F7DF1E?style=for-the-badge"> 
+    <img src="https://img.shields.io/badge/QueryDSL-4FC08D?style=for-the-badge">     
+    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+  </div>
+</div>
 
-Here are some ideas to get you started:
+----
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![qkrtjddms27's github stats](https://github-readme-stats.vercel.app/api?username=qkrtjddms27&show_icons=true) 
+  
+  ### 저는
+  
+  - 꾸준한 학습을 지향합니다.
+  - 처음 도전하는 기술에 좌절하지 않습니다.
+  - 최근 Clean Code를 고민하고 있습니다.
+  
+  
+<div/> 
+
+
