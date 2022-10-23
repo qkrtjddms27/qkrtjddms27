@@ -21,7 +21,7 @@
 
   <img align='right' src="https://github-readme-stats.vercel.app/api?username=qkrtjddms27&show_icons=true">
 
-  ### 저
+  ### 저는
   
   - 꾸준한 학습을 지향합니다.
   - 처음 도전하는 기술에 좌절하지 않습니다.
